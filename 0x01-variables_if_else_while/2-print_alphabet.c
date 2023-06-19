@@ -6,7 +6,7 @@
 
 
 /**
- * main - Entry point
+ * main - prints the alphabetic
  * Retrn: Always 0 (Success)
  */
 
@@ -14,12 +14,12 @@
 int main(void)
 
 {
-	char low;
-	for (low ='a'; low <= 'z'; low++)
-	putchar(low);
+	char c;
+	for (c ='a'; c <= 'z'; c++)
+	putchar(c);
 
-	for(low = 'A'; low <= 'Z'; low++)
-	putchar(low);
+	for(c = 'a'; c <= 'Z'; c++)
+	putchar(c);
 	putchar('\n');
 
 	return (0);
