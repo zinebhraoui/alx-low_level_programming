@@ -7,7 +7,9 @@
 
 /**
  * main - prints the alphabetic
- * Retrn: Always 0 (Success)
+ *
+ * description:'the program prnts alphabetic'
+ * Return: Always 0 (Success)
  */
 
 
