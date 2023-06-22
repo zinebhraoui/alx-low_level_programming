@@ -1,3 +1,9 @@
-int _putchar(int c);
+#ifndef MAIN_H
+#define MAIN_H
 
-int _supper(int c);
+#include <stdio.h>
+
+int _isupper(int c);
+
+
+#endif /* MAIN_H */
