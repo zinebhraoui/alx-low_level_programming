@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * cap_string - capitalizes all words of a string.
- * @s: the string to be capitalized.
+ * leet - Write a function that encodes a string into 1337
+ * @changed: This is the input string
  * Return: String with all vowels changed.
  */
 
